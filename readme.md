@@ -10,6 +10,12 @@ In diesem Teil des Tutorials wird als Beispiel eine Ampelsteuerung benutzt.
 - Windows Delphi - USb - Arduino
 
 
+Verwendete Dateien:
+
+- readme.txt, diese Datei
+- readme.md, diese datei
+- xr_ampel1.fzz, fritzing layout der Testschaltung
+- xr_ampel1_Steckplatine.png, Bild der Testschaltung(fritzing)
 
 
 
