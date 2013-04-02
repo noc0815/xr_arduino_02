@@ -16,6 +16,7 @@ Verwendete Dateien:
 - readme.md, diese datei
 - xr_ampel1.fzz, fritzing layout der Testschaltung
 - xr_ampel1_Steckplatine.png, Bild der Testschaltung(fritzing)
+- bin_werte_ampel.jpg, Bild, binärer Zusammenhang für ser. Übertragung
 
 
 
