@@ -6,8 +6,6 @@ In diesem Teil des Tutorials wird als Beispiel eine Ampelsteuerung benutzt.
 
 - 3 Leds für die KFZ Ampel
 - 2 Leds für die Fußgänger Ampel
-- Kommunikation zwischen PC und Arduino über serielle(USB) Schnittstelle.
-- Windows Delphi - USb - Arduino
 
 
 Verwendete Dateien:
@@ -16,7 +14,6 @@ Verwendete Dateien:
 - readme.md, diese datei
 - xr_ampel1.fzz, fritzing layout der Testschaltung
 - xr_ampel1_Steckplatine.png, Bild der Testschaltung(fritzing)
-- bin_werte_ampel.jpg, Bild, binärer Zusammenhang für ser. Übertragung
 
 
 
