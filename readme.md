@@ -14,6 +14,17 @@ Verwendete Dateien:
 - readme.md, diese datei
 - xr_ampel1.fzz, fritzing layout der Testschaltung
 - xr_ampel1_Steckplatine.png, Bild der Testschaltung(fritzing)
+- ampel1.bas - ampel2.bas  bascom Quelltexte
+- ampel1.ino - ampel5.ino Quelltexte für Tutorial
+
+Links:
+
+Arduino IDE -> arduino.cc
+Fritzing -> fritzing.org
+http://sourceforge.net/projects/arduinodev/files/ArduinoBuilder/
+http://www.mcselec.com/?option=com_content&task=view&id=14&Itemid=41
+
+
 
 
 
