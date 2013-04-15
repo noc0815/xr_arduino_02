@@ -20,8 +20,11 @@ Verwendete Dateien:
 Links:
 
 Arduino IDE -> arduino.cc
+
 Fritzing -> fritzing.org
+
 http://sourceforge.net/projects/arduinodev/files/ArduinoBuilder/
+
 http://www.mcselec.com/?option=com_content&task=view&id=14&Itemid=41
 
 
