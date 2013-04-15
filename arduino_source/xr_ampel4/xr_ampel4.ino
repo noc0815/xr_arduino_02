@@ -70,6 +70,8 @@ void setleds(int xf){
   digitalWrite(led_kgelb, LOW);
   digitalWrite(led_kgruen, LOW);
   
+  //PORTB = B00000000;
+  
   led_start_time=millis();
   
   switch (xf) {

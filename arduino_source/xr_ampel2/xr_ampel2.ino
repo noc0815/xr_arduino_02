@@ -41,6 +41,7 @@ void loop() {
   delay(3000);               // 3 sekunden warten
   digitalWrite(led_frot, HIGH); //Fussgänger bekommt rot
   digitalWrite(led_fgruen, LOW);
+  flashred();
   delay(3000);
   digitalWrite(led_kgelb, HIGH); //kfz bekommt gelb in richtung Grün
   delay(2000);
@@ -53,6 +54,7 @@ void loop() {
   delay(2000);
   digitalWrite(led_kgelb, LOW); //kfz bekommt rot
   digitalWrite(led_krot, HIGH);
+  flashred();
   delay(3000);
   digitalWrite(led_frot, LOW); // Fussgänger bekommt grün
   digitalWrite(led_fgruen, HIGH);
@@ -69,4 +71,19 @@ void ledinit() {
   
   loop();
   
+}
+
+void flashred(){
+   
+ digitalWrite(led_krot, LOW); //Beide roten leds aus
+ digitalWrite(led_frot, LOW); 
+ delay(200);
+ digitalWrite(led_krot, HIGH); //Beide roten leds aus
+ digitalWrite(led_frot, HIGH); 
+ delay(200);
+ digitalWrite(led_krot, LOW); //Beide roten leds aus
+ digitalWrite(led_frot, LOW); 
+ delay(200);
+ digitalWrite(led_krot, HIGH); //Beide roten leds aus
+ digitalWrite(led_frot, HIGH); 
 }
